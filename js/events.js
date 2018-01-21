@@ -30,10 +30,10 @@ $('form').on('submit', function(){
 
 $(document).ready(function(){
   
- getIt()
- frameIt()
- pressIt()
- submitIt()
+ getIt();
+ frameIt();
+ pressIt();
+ submitIt();
  
 });
 
