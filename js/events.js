@@ -32,12 +32,5 @@ $(document).ready(function(){
  pressIt()
  submitIt()
  
- 
- 
- 
-  
-  
-  
-
 });
 
