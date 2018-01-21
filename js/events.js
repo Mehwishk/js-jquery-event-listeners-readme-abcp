@@ -1,12 +1,4 @@
-$(document).ready(function(){
-  
- getIt()
- 
-  
-  
-  
 
-});
   
   //define functions here
 function getIt()
@@ -33,5 +25,19 @@ $('form').on('submit', function(){
 })
 
 
+$(document).ready(function(){
+  
+ getIt()
+ frameIt()
+ pressIt()
+ submitIt()
+ 
+ 
+ 
+ 
+  
+  
+  
 
+});
 
