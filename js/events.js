@@ -31,8 +31,11 @@ $('form').on('submit', function(){
 $(document).ready(function(){
   
  getIt();
+ 
  frameIt();
+ 
  pressIt();
+ 
  submitIt();
  
 });
