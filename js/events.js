@@ -8,9 +8,9 @@ $('p').on('click', function()
 })
 
 function frameIt()
-$('img').on('"load', function()
+$('img').on('load', function()
 {
-  img: 
+ $('img').on ()
 })
 
 function pressIt()
