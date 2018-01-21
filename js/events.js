@@ -1,4 +1,6 @@
-//define functions here
+$(document).ready(function(){
+  
+  //define functions here
 function getIt()
 $('p').on("click", function()
 {
@@ -23,7 +25,7 @@ $('form').on('submit', function(){
 })
 
 
-$(document).ready(function(){
+
 
 // call functions here
 
