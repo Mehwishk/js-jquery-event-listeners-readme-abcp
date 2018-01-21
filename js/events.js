@@ -1,5 +1,13 @@
 $(document).ready(function(){
   
+ getIt()
+ 
+  
+  
+  
+
+});
+  
   //define functions here
 function getIt()
 $('p').on("click", function()
@@ -27,6 +35,3 @@ $('form').on('submit', function(){
 
 
 
-// call functions here
-
-});
